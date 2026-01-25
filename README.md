@@ -45,7 +45,3 @@ It helps administrators understand customer satisfaction levels and manage compl
 
 ---
 
-## ▶️ How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/anushkaa1712/Customer-Experience-Tracking.git
