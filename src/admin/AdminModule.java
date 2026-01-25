@@ -4,7 +4,8 @@ import java.sql.*;
 import java.util.Scanner;
 import db.DBConnection;
 
-public class AdminModule {
+public class AdminModule 
+ {
 
     public static boolean adminLogin() {
         Scanner sc = new Scanner(System.in);

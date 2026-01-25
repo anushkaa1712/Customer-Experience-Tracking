@@ -5,7 +5,7 @@ import java.sql.PreparedStatement;
 import java.util.Scanner;
 import db.DBConnection;
 
-public class AddFeedback {
+public class AddFeedback {  //Feedback Module
 
     public static void main(String[] args) throws Exception {
 
